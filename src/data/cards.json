@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "term": "to be",
+            "definition": "是"
+            
+        },
+        {
+            "id": 2,
+            "term": "not",
+            "definition": "不"
+            
+        },
+        {
+            "id": 3,
+            "term": "person",
+            "definition": "人"
+            
+        },
+        {
+            "id": 4,
+            "term": "we",
+            "definition": "我们"
+            
+        },
+        {
+            "id": 5,
+            "term": "at",
+            "definition": "在"
+            
+        },
+        {
+            "id": 6,
+            "term": "country",
+            "definition": "国"
+            
+        },
+        {
+            "id": 7,
+            "term": "middle",
+            "definition": "中"
+            
+        },
+        {
+            "id": 8,
+            "term": "have",
+            "definition": "有"
+            
+        },
+        {
+            "id": 9,
+            "term": "that",
+            "definition": "那"
+            
+        },
+        {
+            "id": 10,
+            "term": "to go",
+            "definition": "去"
+            
+        },
+        {
+            "id": 11,
+            "term": "to study, to learn",
+            "definition": "学"
+            
+        },
+        {
+            "id": 12,
+            "term": "to use",
+            "definition": "用"
+            
+        },
+        {
+            "id": 13,
+            "term": "face, surface",
+            "definition": "面"
+            
+        },
+        {
+            "id": 14,
+            "term": "work",
+            "definition": "工"
+            
+        },
+        {
+            "id": 15,
+            "term": "speech",
+            "definition": "话"
+            
+        },
+        {
+            "id": 16,
+            "term": "very, quite",
+            "definition": "很"
+            
+        },
+        {
+            "id": 17,
+            "term": "good",
+            "definition": "好"
+            
+        },
+        {
+            "id": 18,
+            "term": "bright, clear",
+            "definition": "明"
+            
+        },
+        {
+            "id": 19,
+            "term": "year",
+            "definition": "年"
+            
+        },
+        {
+            "id": 20,
+            "term": "king",
+            "definition": "王"
+            
+        }
+    ]
+}
